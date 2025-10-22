@@ -1,0 +1,48 @@
+    p,
+    h1,
+    ol {
+        color: purple;
+        background: pink;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    h1 {
+        border: 10px dashed blueviolet;
+    }
+
+    ol {
+        padding: 50;
+    }
+
+    p {
+        background: pink;
+        margin: 5px;
+        padding: 30px;
+        display: block;
+    }
+
+    ol {
+        color: blue;
+        background-color: aqua;
+        padding: 5%;
+    }
+
+    funny {
+        color: black;
+    }
+
+    .high1 {
+        color: brown;
+    }
+
+    .high2 {
+        background: yellow;
+    }
+
+    #sillyguy {
+        width: 300; padding: 10; background-color: black;
+    }
+
+    #ucsc {
+        width: 450;
+    }

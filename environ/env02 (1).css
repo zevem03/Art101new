@@ -1,0 +1,28 @@
+
+
+body {
+    
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    place-items: center;
+    
+}
+
+
+
+#deathstar{width: 50px; opacity: 50%; position: relative; padding: 300%;}
+
+
+
+.xwing-container {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    gap: 10px;
+}
+.xwing {
+    width: 40px;
+}

@@ -1,0 +1,45 @@
+.test-div{
+background: orange;
+padding:20px;
+margin:20px;
+}
+
+div.test-div h2{
+    color: rgb(139, 26, 26);
+
+}
+
+.test-div:hover{
+    background: rgb(7, 42, 6);
+}
+
+h1, h2, h3{
+    text-decoration: underline;
+}
+
+
+
+.test-div{
+    color: aqua;
+}
+
+.test-div .special{
+    background: peachpuff;
+}
+
+h2{
+    color: plum;
+}
+
+div h2{color: green;}
+
+#house div {
+    display: flex ;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+#split{
+    display:flex;
+    flex-direction:row;
+}
